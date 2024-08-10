@@ -2,7 +2,7 @@
 $servername = "localhost";
 $username = "root";
 $password = "";
-$db = "vyavsaku_google_inquiry_dashboard";
+$db = "quickensol";
 
 
 $conn = new mysqli($servername, $username, $password,$db);
